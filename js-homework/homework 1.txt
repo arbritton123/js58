@@ -1,0 +1,20 @@
+First One:
+
+mkdir Sites
+cd Sites
+mkdir -p my-awesome-directory/nested-directory
+cd nested-directory
+touch hello.txt
+cd Sites
+touch terminals_are_fun.txt
+
+Second One:
+mkdir Sites
+cd Sites
+mkdir -p 1/2/3/4/5/6/7/8/9/hello/its/me
+cd me
+touch adele.jpg
+cd Sites
+mkdir -p i/was/wondering/if/after/all/these/years/you world/like/to
+cd to
+touch meet.jpg
